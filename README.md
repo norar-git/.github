@@ -7,3 +7,4 @@ Norar is a product & engineering org focused on:
 - Clean, maintainable architecture
 
 🚀 Building in public.
+web-url : www.norar.app
